@@ -13,7 +13,7 @@ it automatically set when you plug in or unplug your laptop.
 
 ## How to use it?
 
-Download the exe file in the [releases tab](https://github.com/machineonamission/uwd2/releases)
+Download the exe file in the [releases tab](https://github.com/machineonamission/win_global_gpu/releases)
 
 Run it in your favorite terminal: `win_global_gpu.exe` or `win_global_gpu.exe SUBCOMMAND`
 
